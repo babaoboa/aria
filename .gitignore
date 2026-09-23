@@ -1,0 +1,17 @@
+# Compiled Object files
+apps/library/*.o
+apps/library/*.obj
+
+# Executables
+apps/library/*.bin
+apps/library/*.elf
+
+# PROS
+apps/library/bin/
+apps/library/.vscode/
+apps/library/.cache/
+apps/library/compile_commands.json
+apps/library/temp.log
+apps/library/temp.errors
+apps/library/*.ini
+apps/library/.d/
