@@ -1,4 +1,4 @@
-# kernel
+# aria
 
 PROS code for the VEX V5 team project lives in `apps/library`.
 
