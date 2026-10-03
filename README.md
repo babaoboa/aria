@@ -1,2 +1,3 @@
-# kernel
-c++ codebase for kernel bye
+# aria
+
+a blazingly fast, competent and easy to use vex autonomous library
